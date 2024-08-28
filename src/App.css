@@ -1,0 +1,9 @@
+/* Image Carasoul Css */
+.prev, .next {
+  width: auto;
+  padding: 30px;
+  font-weight: bold;
+  font-size: 24px;
+ 
+
+}
